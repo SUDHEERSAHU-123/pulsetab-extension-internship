@@ -1,40 +1,52 @@
-# pulsetab-extension-internship
+# PulseTab Browser Extension – Internship Project
 
-Welcome to the **pulsetab-extension-internship** repository! This project is part of my internship journey, focused on developing a browser extension. It serves as a dedicated space for learning and experimenting with backend technologies that will be integral to the main project.
+Welcome to the PulseTab Internship! This project focuses on building a browser extension using Angular for the frontend and Firebase for the backend.
 
-## 🚀 Purpose
+## 🚀 Project Overview
 
-This repository is my **personal learning ground** for exploring and integrating Firebase technologies needed for the development of a fully functional browser extension.
+We are building a browser extension hosted at:
 
-## 🧠 Learning Scope
+👉 [https://pulse-tab.web.app](https://pulse-tab.web.app)
 
-Technologies & Services I'm exploring:
+The project is divided into frontend and backend responsibilities. This repository serves as the backend reference, specifically covering Firebase services integration.
 
-* **Firebase Firestore** (NoSQL Database)
-* **Firebase Authentication** (User login & session management)
-* **Firebase Hosting** (Serving web assets)
-* **Firebase Storage** (Storing media and files)
+---
 
-Focus areas:
+## 🔧 Backend Team Responsibilities
 
-* Setting up and configuring Firebase services
-* Managing user data securely
-* Connecting the backend with a frontend interface
+As part of the Firebase backend team, our key tasks are:
+
+- ✅ Set up and manage **Firebase project**
+- ✅ Configure and integrate **Firebase Authentication**
+- ✅ Design and implement **Firestore Database structure**
+- ✅ Handle file storage via **Firebase Storage**
+- ✅ Deploy the application using **Firebase Hosting**
+
+---
+
+## 🛠 Firebase Setup Instructions
+
+1. **Create a Firebase Project**
+   - Go to [Firebase Console](https://console.firebase.google.com)
+   - Click **Add Project** and follow the steps
+
+2. **Enable Services**
+   - **Authentication**: Email/Password (or other providers)
+   - **Firestore Database**: Set up in test mode during development
+   - **Storage**: Allow file uploads for profile pictures or user data
+   - **Hosting**: Deploy the Angular build
+
+3. **Install Firebase Tools Locally**
+   ```bash
+   npm install -g firebase-tools
+   firebase login
+   firebase init
+
 
 ## 📌 Notes
 
 * This is **not a production-level project**. It's a **learning and prototyping** space where I’m actively experimenting with tools and best practices.
 * Expect frequent updates and changes as I continue to learn and iterate.
-
-## 📍 Steps
-
-* Setting up a Firebase project. ✅
-* Firestore Datbase. ✅
-* Google OAuth. ✅
-* Hosting. ✅
-
-* Functions. ⏳
-* Begin testing integrations. ⏳
 
 ## 👥 Internship Team
 
