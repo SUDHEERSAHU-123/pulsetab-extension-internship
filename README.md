@@ -37,10 +37,9 @@ As part of the Firebase backend team, our key tasks are:
    - **Hosting**: Deploy the Angular build
 
 3. **Install Firebase Tools Locally**
-   ```bash
-   npm install -g firebase-tools
-   firebase login
-   firebase init
+   * npm install -g firebase-tools
+   * firebase login
+   * firebase init
 
 
 ## 📌 Notes
