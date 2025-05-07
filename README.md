@@ -10,8 +10,6 @@ We are building a browser extension hosted at:
 
 The project is divided into frontend and backend responsibilities. This repository serves as the backend reference, specifically covering Firebase services integration.
 
----
-
 ## 🔧 Backend Team Responsibilities
 
 As part of the Firebase backend team, our key tasks are:
@@ -22,7 +20,6 @@ As part of the Firebase backend team, our key tasks are:
 - ✅ Handle file storage via **Firebase Storage**
 - ✅ Deploy the application using **Firebase Hosting**
 
----
 
 ## 🛠 Firebase Setup Instructions
 
